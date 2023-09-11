@@ -7,3 +7,4 @@ query.get(); // => { runtime: "Bun" }
 
 // log("can i do this");
 log(`how about this ${JSON.stringify(query.get())}`);
+
